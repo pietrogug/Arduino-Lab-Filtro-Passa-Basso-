@@ -1,0 +1,1 @@
+Chiedo scusa per l'attuale mancanza dei codici, li sto commentando in modo che siano facilmente comprensibili anche per chi non è molto pratico e per permettere a tutti di effettuare le modifiche necessarie a replicare la prova nel caso uno li volesse utilizzare con la propria scheda arduino
